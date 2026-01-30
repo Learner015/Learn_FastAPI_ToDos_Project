@@ -183,10 +183,9 @@
             const payload = {
                 email: data.email,
                 username: data.username,
-                first_name: data.firstname,
-                last_name: data.lastname,
+                f_name: data.firstname,
+                l_name: data.lastname,
                 role: data.role,
-                phone_number: data.phone_number,
                 password: data.password
             };
 
